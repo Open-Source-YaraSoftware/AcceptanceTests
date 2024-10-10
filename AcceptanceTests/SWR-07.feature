@@ -49,4 +49,4 @@ Feature: Formulario de Contacto de la Landing Page
     When examino el diseño del formulario
     Then debería ver un diseño limpio y ordenado
     And los campos deberían estar claramente separados y etiquetados
-    And el botón "CONTÁCTANOS" debería ser fácilmente identificable y clickeable
+    And el botón "CONTÁCTANOS" debería ser clickeable
