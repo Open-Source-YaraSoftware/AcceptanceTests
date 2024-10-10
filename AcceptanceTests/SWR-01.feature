@@ -31,6 +31,7 @@ Feature: Hero Section de la Landing Page
     And debería ser visualmente atractiva sin distorsiones
 
     Examples:
+    
       | dispositivo |
       | móvil       |
       | tablet      |
